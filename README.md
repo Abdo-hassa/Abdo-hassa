@@ -9,6 +9,6 @@
 [![Abdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdo-hassa)](https://github.com/Abdo-hassa/github-readme-stats)
 
 
-[![abdo's wakatime stats](https://github-readme-stats.vercel.app/api/Abdo-hassa?username=Abdo-hassa)](https://github.com/Abdo-hassa/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abdallah_hassan)](https://github.com/anuraghazra/github-readme-stats)
 
 
