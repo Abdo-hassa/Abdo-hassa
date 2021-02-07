@@ -8,4 +8,3 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdo-hassa)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-linkedin.vercel.app/experience?username=abdallah-hassan-704ba2172" />
