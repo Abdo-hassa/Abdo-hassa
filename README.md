@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo-hassa)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Abdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdo-hassa)](https://github.com/Abdo-hassa/github-readme-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdo-hassa&show_icons=true&theme=radical)
 
 
 
