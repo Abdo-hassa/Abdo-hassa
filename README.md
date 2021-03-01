@@ -17,3 +17,6 @@
 [![Abdallah_hassan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abdallah_hassan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Abdallah_hassan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abdallah_hassan)](https://github.com/anuraghazra/github-readme-stats)
+
+
